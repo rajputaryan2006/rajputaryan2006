@@ -1,55 +1,67 @@
-# 👋 Hi, I'm Aryansinh  
+# 👋 Introduction
 
-🚀 Aspiring **Python Developer** | Beginner → Professional  
-💡 Passionate about learning Python, problem-solving, and building real-world projects.
+Hi, I’m **Aryansinh**, an aspiring **Python Developer** passionate about building reliable, clean, and efficient software.  
+I enjoy solving problems, learning new technologies, and improving my skills through hands-on practice and real-world projects.
 
----
-
-## 🐍 About Me
-- 🌱 Currently learning **Python programming**
-- 📚 Exploring **Data Structures, OOP, and basic Web Development**
-- 🧠 Interested in **Backend Development & Automation**
-- 🎯 Goal: Become a skilled **Python Developer**
+This repository represents my learning, practice, and growth as a Python developer.
 
 ---
 
-## 🛠️ Skills (In Progress)
-- **Programming Language:** Python  
-- **Concepts:**  
-  - Variables & Data Types  
-  - Loops & Conditions  
-  - Functions  
-  - OOP Basics  
-- **Tools:**  
-  - Git & GitHub  
-  - VS Code  
+## 🧠 Skills (Python Developer)
+
+### 🐍 Python Programming
+- Python syntax & best practices  
+- Variables, Data Types & Operators  
+- Conditional Statements & Loops  
+- Functions & Lambda Functions  
+- Object-Oriented Programming (OOP)  
+  - Classes & Objects  
+  - Inheritance  
+  - Polymorphism  
+  - Encapsulation  
+
+### 📊 Data Structures & Logic
+- Lists, Tuples, Sets, Dictionaries  
+- String manipulation  
+- Basic algorithmic problem-solving  
+
+### 📁 Core Python Concepts
+- File Handling  
+- Exception Handling  
+- Modules & Packages  
+- Virtual Environments  
+- Basic Debugging  
 
 ---
 
-## 📂 Projects
-> I’ll be adding projects as I learn. Stay tuned! 🚧
+## ➕ Additional Skills
 
-- 🔹 Python Basics Practice  
-- 🔹 Mini Programs & Exercises  
-- 🔹 Beginner-friendly Projects  
+### 🌐 Web & Backend Basics
+- Basic knowledge of HTML & CSS  
+- Understanding of backend concepts  
+- REST API basics  
 
----
+### 🗄️ Database Basics
+- SQL fundamentals  
+- Basic database operations  
 
-## 📈 Learning Roadmap
-- ✅ Python Basics  
-- 🔄 Object-Oriented Programming  
-- 🔜 Data Structures & Algorithms  
-- 🔜 Django / Flask  
-- 🔜 Real-World Projects  
+### ⚙️ Tools & Development
+- Git & GitHub (version control)  
+- Visual Studio Code  
+- Command Line (basic usage)  
+
+### 🧠 Professional Skills
+- Problem-solving mindset  
+- Logical thinking  
+- Continuous learning  
+- Code readability & documentation  
 
 ---
 
 ## 🤝 Connect With Me
-- 🌐 GitHub: https://github.com/your-username  
-- 📧 Email: your-email@example.com  
+- 📧 Email:rajputaryansinh522@gmail.com    
 
 ---
 
-⭐ *This repository marks the beginning of my Python development journey.*  
-⭐ *I believe in learning by building.*
-
+⭐ *This repository reflects my journey, dedication, and continuous improvement as a Python developer.*  
+⭐ *Always learning. Always building.*
